@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tymr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="timer">00:00:00</string>
+</resources>
